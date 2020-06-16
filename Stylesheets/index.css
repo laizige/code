@@ -1,0 +1,32 @@
+@charset "utf-8";
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,a,code,em,img,q,small,strong,dd,dl,dt,li,ol,ul,fieldset,form,label,table,tbody,tr,th,td,input{margin:0;padding:0;}
+body{ margin:0; padding:0; font-family: "\5FAE\8F6F\96C5\9ED1"; font-size: 12px; background-color: #f3f7fb;}
+ol,ul,li{list-style-type:none;}
+button{overflow:visible;cursor:pointer;}
+fieldset,img{border:none 0;}
+input,select,form,img,button,textarea{vertical-align:middle;}
+em,strong,cite{font-style:normal;}
+table{empty-cells:show;}
+table,th,td{border-collapse:collapse;}
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+.clear{clear:both;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.content{ width: 980px; margin: 0 auto; position: relative; overflow: hidden;}
+.header,.header .content{ background:#5997f5 url("http://pic.xyzs.com/tg/upload/homebg.jpg") center 0 no-repeat; height: 607px;}
+.logo{ padding: 33px 0 49px 0;}
+.left{ float: left; width: 488px;}
+.right{ float: right; width: 410px; padding-top: 74px;}
+.download{ width: 170px; padding-left: 85px; height: 56px; margin: 28px auto 0; letter-spacing: 4px; display: block; background: url("http://pic.xyzs.com/tg/upload/1468828241_download.png") 0 0 no-repeat; color: #fff; font-size: 24px; line-height: 56px;}
+.download:hover{ text-decoration: none;}
+.tips{margin-top: 25px;color: #fff; font-size: 12px; text-align: center;}
+.middle{ padding: 80px 0;}
+.middle ul{ padding-left: 18px; width: 1000px;}
+.middle ul li{ float: left; width: 192px; margin-right: 57px;}
+.middle ul li.pb60{ padding-bottom: 35px;}
+.middle ul li img{ margin: 0 auto; display: block; width: 120px; height: 120px; overflow: hidden;}
+.middle ul li .name{ margin: 24px 0 13px 0; text-align: center; font-size: 22px; color: #1a1a1a; overflow: hidden;}
+.middle ul li .desc{ line-height: 1.2; height:34px; color:#222020; font-size: 15px; overflow: hidden;}
+.footer{ background-color: #6bc4fb; padding: 42px 0; }
+.footer p{ font-size: 12px; color: #fff; text-align: center; line-height: 12px;}
+.footer p.p1{ padding: 0 0 14px 0;}
